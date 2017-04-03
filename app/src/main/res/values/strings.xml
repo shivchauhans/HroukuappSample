@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtistSampleApp</string>
+    <string name="no_internet">No internet connection, Please try again later.</string>
+    <string name="no_records">No records found.</string>
+    <string name="wait_message">Please wait while we fetching the results..</string>
+
+    <string name="permission_granted">Permission granted.</string>
+    <string name="permission_denied">permission denied.</string>
+</resources>
